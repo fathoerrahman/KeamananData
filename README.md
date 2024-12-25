@@ -2,7 +2,7 @@
 
 Tugas ini terdiri dari tiga aplikasi yang berfungsi untuk melakukan enkripsi, dekripsi, dan steganografi. Berikut adalah rincian dari masing-masing aplikasi:
 
-## 1. Aplikasi Caesar Cipher
+## 1. Aplikasi Kalkulator Caesar Cipher
 
 ### Deskripsi:
 Aplikasi ini menerapkan metode Caesar Cipher untuk enkripsi dan dekripsi teks dengan pergeseran karakter. Pengguna dapat memasukkan teks dan nilai pergeseran untuk melakukan proses tersebut.
@@ -49,9 +49,9 @@ Navigasikan ke direktori tempat file aplikasi disimpan.
 
 Jalankan aplikasi dengan perintah berikut:
 
-1. Untuk Enkripsi dan Dekripsi DES: bash Salin kode python DES.py
-2. Untuk Kalkulator Caesar Cipher: bash Salin kode python caesarcipher.py
-3. Untuk Steganografi:bash Salin kode python stegano.py
+1. Untuk Kalkulator Caesar Cipher: bash salin kode python caesarcipher.py
+2. Untuk Enkripsi dan Dekripsi DES: bash salin kode python DES.py
+3. Untuk Steganografi: bash salin kode python stegano.py
 
 Dengan mengikuti langkah-langkah di atas, Anda dapat menjalankan dan menggunakan aplikasi-aplikasi yang telah dibuat.
 
